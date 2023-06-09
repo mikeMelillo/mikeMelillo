@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikeMelillo
 - 👀 I’m interested in...
       SkySpark & Data Analytics (https://skyfoundry.com/)
-      Semantic Modelling for the Built Space (https://project-haystack.org/, https://brickschema.org/)
+      Semantic Models for the Built Space (https://project-haystack.org/)
       Python for Data Analysis      
 - 🌱 I’m currently learning Python, trying to get my feet wet with some of the regular toolkits (numpy, pandas, matplotlib etc.), and then apply them to some business use cases.
 - 💞️ I’m looking to collaborate on using simple statistical models to analyze (and visualize) building systems.
